@@ -1,0 +1,6 @@
+
+# Secrets et données locales
+*.key
+memoire_operations_ci.json
+annuaire_tiers.json
+.env
